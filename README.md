@@ -47,8 +47,10 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; gap: 0.5rem;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ephy-kimotho&show_icons=true&locale=en&layout=compact" alt="ephy-kimotho" />
   <img src="https://github-readme-stats.vercel.app/api?username=ephy-kimotho&show_icons=true&locale=en" alt="ephy-kimotho" />
+</div>
+<div style="display: flex; justify-content: center; margin-top: 0.5rem;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephy-kimotho&" alt="ephy-kimotho" />
 </div>
