@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Next.js, TypeScript, JavaScript.**
 
-- 📄 Check out my CV: [View CV](https://drive.google.com/file/d/1t5v_-Qq3SBejjUO8RFTRB57tNi8HN3y_/view?usp=sharing)
+- 📄 Check out my CV: [View CV](https://drive.google.com/file/d/1DYglh6xDk-Ptqi7oprDOpB21vvP1UXFs/view?usp=sharing)
 
 - 📫 How to reach me **ephyk48@gmail.com**
 
