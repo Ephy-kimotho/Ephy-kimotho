@@ -1,5 +1,4 @@
-<h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm Ephy Kimotho, a front-end developer passionate about building seamless and scalable web applications using React ⚛️, Next.js, and TypeScript. With a strong focus on user experience 🎨 and performance ⚡, I enjoy working with state management tools like Redux and Zustand. I’m also expanding my skills in distributed systems and mobile development with React Native 📱. From e-commerce platforms to management systems , I love turning ideas into functional and impactful solutions. Open to collaboration 🤝 and always eager to learn new technologies! 🚀</h3>
+<h2 align="left">Hi there 👋, I'm Ephy Kimotho, but you can call me Kim 😊. I'm a developer who loves building applications that are not only useful but also enjoyable to use. Whether it's a website, a mobile app, or a dashboard, I enjoy turning ideas into real, working solutions. I’ve worked on projects like e-commerce platforms, management systems, and more—and I’m always up for learning something new or collaborating on exciting ideas. Let’s build something great together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephy-kimotho&label=Profile%20views&color=0e75b6&style=flat&new" alt="ephy-kimotho" /> </p>
 
