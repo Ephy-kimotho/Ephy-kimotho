@@ -1,15 +1,15 @@
-<h2 align="left">Hi there 👋, I'm Ephy Kimotho, but you can call me Kim 😊. I'm a developer who loves building applications that are not only useful but also enjoyable to use. Whether it's a website, a mobile app, or a dashboard, I enjoy turning ideas into real, working solutions. I’ve worked on projects like e-commerce platforms, management systems, and more—and I’m always up for learning something new or collaborating on exciting ideas. Let’s build something great together! 🚀</h3>
+<h2 align="left">Hi there 👋, I'm Ephy Kimotho, but you can call me Kim. I'm a developer who loves building applications that are not only useful but also enjoyable to use. Whether it's a website, a mobile app, or a dashboard, I enjoy turning ideas into real, working solutions. I’ve worked on projects like e-commerce platforms, management systems, and more—and I’m always up for learning something new or collaborating on exciting ideas. Let’s build something great together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephy-kimotho&label=Profile%20views&color=0e75b6&style=flat&new" alt="ephy-kimotho" /> </p>
 
 
 - I am currently working on Ukulima, a dedicated e-commerce platform designed to empower farmers by providing easy access to high-quality farm equipment, seeds, fertilizers, and other essential agricultural supplies. With a user-friendly interface, search and filtering options, and secure transactions, Ukulima simplifies the process of sourcing farm essentials, helping farmers enhance productivity and efficiency. [Ukulima](https://alx-ukulima.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS Solutions Architect Associate**
 
 - 💬 Ask me about **React, Next.js, TypeScript, JavaScript.**
 
-- 📄 Check out my CV: [View CV](https://drive.google.com/file/d/1DYglh6xDk-Ptqi7oprDOpB21vvP1UXFs/view?usp=sharing)
+- 📄 Check out my CV: [View CV](https://drive.google.com/file/d/1nGL8sP1gaxmBzMVZ9zGylnuWRN66o_6A/view?usp=sharing)
 
 - 📫 How to reach me **ephyk48@gmail.com**
 
