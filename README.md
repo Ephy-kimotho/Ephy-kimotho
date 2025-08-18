@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephy-kimotho&label=Profile%20views&color=0e75b6&style=flat&new" alt="ephy-kimotho" /> </p>
 
 
-- I am currently working on Ukulima, a dedicated e-commerce platform designed to empower farmers by providing easy access to high-quality farm equipment, seeds, fertilizers, and other essential agricultural supplies. With a user-friendly interface, search and filtering options, and secure transactions, Ukulima simplifies the process of sourcing farm essentials, helping farmers enhance productivity and efficiency. [Ukulima](https://alx-ukulima.vercel.app/)
+<p>
+I am currently working on the Visitor Management System (VMS), a modern web application designed to streamline visitor check-ins, host scheduling, notifications, and reporting. With a user-friendly interface, real-time updates, and role-based dashboards, VMS helps organizations efficiently manage visitor flows while enhancing security and accountability.
+</p>
 
 - 🌱 I’m currently learning **AWS Solutions Architect Associate**
 
