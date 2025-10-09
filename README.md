@@ -4,7 +4,7 @@
 
 
 <p>
-I am currently working on the Visitor Management System (VMS), a modern web application designed to streamline visitor check-ins, host scheduling, notifications, and reporting. With a user-friendly interface, real-time updates, and role-based dashboards, VMS helps organizations efficiently manage visitor flows while enhancing security and accountability.
+I’m currently working on the Rental Management System (RMS), a modern web app that simplifies property and tenant management. It features unit tracking, rent monitoring, and maintenance scheduling — all through a clean, intuitive interface with real-time updates and role-based dashboards.
 </p>
 
 - 🌱 I’m also learning **AWS Solutions Architect Associate**
