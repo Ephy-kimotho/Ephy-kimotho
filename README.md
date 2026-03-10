@@ -11,10 +11,6 @@ I’m currently working on the Rental Management System (RMS), a modern web app 
 
 - 💬 Ask me about **React, Next.js, TypeScript, JavaScript.**
 
-- 📄 Check out my CV: [View CV](https://drive.google.com/file/d/1nGL8sP1gaxmBzMVZ9zGylnuWRN66o_6A/view?usp=sharing)
-
-- 📫 How to reach me **ephyk48@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/just_kim24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_kim24" height="30" width="40" /></a>
